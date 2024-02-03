@@ -9,7 +9,7 @@ namespace abstractV4
     public class Circle : Shape
     {
         //Daire hesaplamasında pi*r2 tek değer alıyor yarıçap 
-        public Circle(double radius) : base(radius, 0)
+        public Circle(double radius) : base(radius, 0) // base constructor gönderdik
         {
         }
 
