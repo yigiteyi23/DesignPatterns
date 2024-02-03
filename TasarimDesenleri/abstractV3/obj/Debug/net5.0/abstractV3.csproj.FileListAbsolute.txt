@@ -1,0 +1,16 @@
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\bin\Debug\net5.0\abstractV3.exe
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\bin\Debug\net5.0\abstractV3.deps.json
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\bin\Debug\net5.0\abstractV3.runtimeconfig.json
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\bin\Debug\net5.0\abstractV3.runtimeconfig.dev.json
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\bin\Debug\net5.0\abstractV3.dll
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\bin\Debug\net5.0\ref\abstractV3.dll
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\bin\Debug\net5.0\abstractV3.pdb
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\obj\Debug\net5.0\abstractV3.csproj.AssemblyReference.cache
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\obj\Debug\net5.0\abstractV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\obj\Debug\net5.0\abstractV3.AssemblyInfoInputs.cache
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\obj\Debug\net5.0\abstractV3.AssemblyInfo.cs
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\obj\Debug\net5.0\abstractV3.csproj.CoreCompileInputs.cache
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\obj\Debug\net5.0\abstractV3.dll
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\obj\Debug\net5.0\ref\abstractV3.dll
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\obj\Debug\net5.0\abstractV3.pdb
+C:\Projeler\DesignPatterns\TasarimDesenleri\abstractV3\obj\Debug\net5.0\abstractV3.genruntimeconfig.cache
