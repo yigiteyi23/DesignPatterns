@@ -18,9 +18,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abstractV6", "abstractV6\abstractV6.csproj", "{7CD512FB-3922-4080-8F71-A499FCC92970}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "abstractFactory", "abstractFactory", "{79EC78ED-22EA-4EFA-B7DC-620BC9B15072}"
-	ProjectSection(SolutionItems) = preProject
-		D:\Softtech Programs\Prestij\Prestij Design Pattern Egitim\Design Patterns\03.Abstract Factory\Abstract Factory.vsd = D:\Softtech Programs\Prestij\Prestij Design Pattern Egitim\Design Patterns\03.Abstract Factory\Abstract Factory.vsd
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{C695B14D-2D86-4DAC-82E2-198236DAF9A3}"
 EndProject
