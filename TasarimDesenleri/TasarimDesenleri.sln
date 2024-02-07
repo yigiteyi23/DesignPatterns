@@ -21,6 +21,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "abstractFactory", "abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{C695B14D-2D86-4DAC-82E2-198236DAF9A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FoodTrackingDatabaseScript", "FoodTrackingDatabaseScript", "{1E4C6F84-96F8-41EB-82BD-0A270A56AA6A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\engin efe\Documents\FoodTracking.sql = ..\..\..\Users\engin efe\Documents\FoodTracking.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
