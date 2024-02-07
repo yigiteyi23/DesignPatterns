@@ -13,14 +13,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abstractV3", "abstractV3\ab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abstractV4", "abstractV4\abstractV4.csproj", "{CCBF0833-7E59-48F2-A09C-A8274378F28F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstractV5", "abstractV5\abstractV5.csproj", "{38C8FAD3-8249-49AD-A1DC-5EB2D4DF8239}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abstractV5", "abstractV5\abstractV5.csproj", "{38C8FAD3-8249-49AD-A1DC-5EB2D4DF8239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstractV6", "abstractV6\abstractV6.csproj", "{7CD512FB-3922-4080-8F71-A499FCC92970}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abstractV6", "abstractV6\abstractV6.csproj", "{7CD512FB-3922-4080-8F71-A499FCC92970}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "abstractFactory", "abstractFactory", "{79EC78ED-22EA-4EFA-B7DC-620BC9B15072}"
 	ProjectSection(SolutionItems) = preProject
 		D:\Softtech Programs\Prestij\Prestij Design Pattern Egitim\Design Patterns\03.Abstract Factory\Abstract Factory.vsd = D:\Softtech Programs\Prestij\Prestij Design Pattern Egitim\Design Patterns\03.Abstract Factory\Abstract Factory.vsd
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{C695B14D-2D86-4DAC-82E2-198236DAF9A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -52,6 +54,10 @@ Global
 		{7CD512FB-3922-4080-8F71-A499FCC92970}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD512FB-3922-4080-8F71-A499FCC92970}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD512FB-3922-4080-8F71-A499FCC92970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C695B14D-2D86-4DAC-82E2-198236DAF9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C695B14D-2D86-4DAC-82E2-198236DAF9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C695B14D-2D86-4DAC-82E2-198236DAF9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C695B14D-2D86-4DAC-82E2-198236DAF9A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{CCBF0833-7E59-48F2-A09C-A8274378F28F} = {7E05561F-FF26-416D-A4C3-7FD7708529C1}
 		{38C8FAD3-8249-49AD-A1DC-5EB2D4DF8239} = {7E05561F-FF26-416D-A4C3-7FD7708529C1}
 		{7CD512FB-3922-4080-8F71-A499FCC92970} = {7E05561F-FF26-416D-A4C3-7FD7708529C1}
+		{C695B14D-2D86-4DAC-82E2-198236DAF9A3} = {79EC78ED-22EA-4EFA-B7DC-620BC9B15072}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C925C8A7-E66E-4426-B880-96796D6FA6ED}
