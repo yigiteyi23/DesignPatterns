@@ -22,7 +22,7 @@ namespace DapperOrmFoodTrackingSample
             connection.ConnectionString = "Data Source = DEVOPS\\DEVOPS; Initial Catalog = FoodTracking; Integrated Security = True";
             connection.Open();
 
-            /*
+
             var sql = "select * from dbo.kullanici";
 
             var kullaniciListesi = connection.Query<Kullanici>(sql).ToList();
@@ -36,7 +36,7 @@ namespace DapperOrmFoodTrackingSample
             Console.WriteLine("Kullanıcı Count: {0}", kullaniciListesi.Count());
             Console.WriteLine("Kullanıcı Any: {0}", kullaniciListesi.Any());
             Console.WriteLine("Kullanıcı Adi Soyadi: {0} {1}", kullaniciListesi.First().adi, ' ' + kullaniciListesi.First().soyadi);
-            */
+
             #endregion
 
             #region Dapper Insert
